@@ -75,6 +75,3 @@ For questions or feedback, please reach out:
 - Name: Ujjawal Rauniyar 
 - Email: Ujjawalrauniyar2004@gmail.com 
 
---- 
-
-You can expand on this template by adding screenshots, live demo links (if deployed), and detailed instructions if necessary.
